@@ -1,0 +1,10 @@
+{
+
+    "inValidCredentials": {
+
+        "email": "wrong@example.com",
+        "password": "InvalidPassword",
+        "wrongEmailFormat": "wrongformat.com"
+
+    }
+}
