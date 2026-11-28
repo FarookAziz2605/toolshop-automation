@@ -1,6 +1,7 @@
 
 import {test as base} from '@playwright/test';
 import { LoginPage } from './Pages/LoginPage';
+import { ProductPage } from './Pages/ProductPage';
 
 export const test = base.extend({
     //Fixture 1 which always goes to login page
